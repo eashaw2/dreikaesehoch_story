@@ -1,0 +1,23 @@
+apfelkuchen: apple cake
+baeckerei: backery
+Berlin 
+biergarten: beer garden
+BMW
+bratwurst
+brot: bread
+dirndel
+doener: doner
+Eltz
+flughafen: airport
+gebaeck: pastries
+hauptstrasse: main road
+hund: dog
+klimaanlage: air conditioning
+lederhose: leather pants
+mehlhase: flour bunny
+Porsche
+Raesfeld
+Rammstein
+ratskeller
+schloss: lock
+wettbewerbsfaehig: competitive
